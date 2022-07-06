@@ -1,3 +1,5 @@
+This is the Final Version of Mary Cloer website for admittance to Career Services
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
